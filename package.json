@@ -4,8 +4,8 @@
   "description": "## Arrays",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
-    "test:watch": "jest --verbose --watchAll" 
+    "test": "clear && jest",
+    "test:watch": "jest --verbose --watchAll"
   },
   "repository": {
     "type": "git",
